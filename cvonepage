@@ -1,0 +1,99 @@
+\documentclass[margin, 10pt]{res}
+\usepackage{graphicx, xcolor}
+\definecolor{red1}{RGB}{160,0,20}
+\setlength{\textwidth}{5.1in}
+\usepackage{zi4, libertine, microtype}
+\usepackage[colorlinks, allcolors=red1]{hyperref}
+
+\begin{document}
+\moveleft.5\hoffset\centerline{\LARGE R\'ois\'in Donnelly}
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{resume}
+
+\section{\normalfont\textsc{Contact}}
+AAC 263 \hfill
+\href{mailto:rdonnelly@bentley.edu}{rdonnelly@bentley.edu} \\
+Bentley University, 175 Forest St \hfill
+Waltham, MA 02452  \hfill
+Cell: +1-617-308-8673
+
+\section{\normalfont\textsc{Education}}
+\textbf{\textsc{Bentley University}} \hfill \textbf{Waltham, MA} \\
+Ph.D.~Business Studies \hfill Expected 2018 
+
+\textbf{\textsc{Trinity College, The University of Dublin}} \hfill
+\textbf{Dublin, Ireland} \\
+MSc.~Finance \hfill 2012 \\
+\emph{Distinction}
+
+\textbf{\textsc{Trinity College, The University of Dublin}} \hfill
+\textbf{Dublin, Ireland} \\
+Bachelor in Business Studies \hfill 2011 \\
+\emph{First Class Honors and Gold Medal} 
+% \emph{Third year spent at Universit{\"a}t Regensburg, Germany, as part of the
+% Erasmus Program}
+
+\section{\normalfont\textsc{Fields}}
+International Business, Strategy
+
+\section{\normalfont\textsc{Work in Progress}}
+
+Firm-Specific Institutional Distance \& Locational Decisions: Incorporating Emerging Market Context \& Knowledge Intensity
+\textit{(Presenting at AOM and AIB, 2016; Best Paper Winner, AOM)}
+
+How locations and institutions matter: A systematic review of institutional locational advantages. Presented at SMS Special Conference,Santiago, Chile. 
+
+Institutional Distance \& Locational Decisions: A Review, Reconceptualization, and Extension \textit{ Presneted at AIB NE 2015; Honorable Mention in Best Student Paper category)}
+
+Contradicting Institutional Environments - The Institutional Work of Multinational Enterprises \textit{ Presneted at AIB NE 2014; Winner of Best Student Paper)}
+
+
+
+\section{\normalfont\textsc{Work \\Experience}}
+Research Assistant for T. Manolova \& L. Edelman, Bentley University ( 2014-Present). \\
+[0.5em]
+Bank Executive at the Central Bank of Ireland (2012-2013). 
+
+
+\section{\normalfont\textsc{Teaching \\Experience}}
+\textbf{\textit{Course Instructor}}~ Bentley University:
+Global Strategy (Fall 2015, Spring 2016, \& Fall
+2016). \\
+\textbf{\textit{Teaching Assistant,}}~ Trinity College Dublin:
+Introduction to Finance (Fall 2012)
+
+
+\section{\normalfont\textsc{Fellowships and Awards}}
+Best Paper Winner at Academy of Management (2016) \\
+[0.5em]
+Accepted to GW-CIBER Summer Doctoral Institute (2016 \\ 
+[0.5em]
+Winner of Best Student Paper at AIB NE Conference (2014), Honorable Mention (2015) \\
+[0.5em]
+Ewing Marion Kauffman Foundation Grant for women entrepreneurship research (2016) \\
+[0.5em]
+Rauch Fellowship Recipient \\
+[0.5em]
+Foundation Scholarship, Trinity College Dublin (2009-2012) \\
+
+\section{\normalfont\textsc{Other}}
+\textbf{Languages:} English (Native), German.\\
+\textbf{Software:} R, Python, C, Bash/Zsh, \LaTeX, Stata \\
+\textbf{Nationality:} Irish with J1 Visa.
+
+\end{resume}
+\end{document}
