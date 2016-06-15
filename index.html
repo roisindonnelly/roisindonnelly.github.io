@@ -1,129 +1,53 @@
-<!doctype html>
-<!--
-  Material Design Lite
-  Copyright 2015 Google Inc. All rights reserved.
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-      https://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License
--->
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Róisín Donnelly's Homepage">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
-    <title>Róisín Donnelly</title>
-
-    <!-- Add to homescreen for Chrome on Android -->
-    <meta name="mobile-web-app-capable" content="yes">
     <link rel="icon" sizes="192x192" href="images/bentley.png">
-
-    <!-- Add to homescreen for Safari on iOS -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="Róisín Donnelly's Homepage">
-    <link rel="apple-touch-icon-precomposed" href=images/bentley.png">
-
-    <!-- Tile icon for Win8 (144x144 + tile color) -->
-    <meta name="msapplication-TileImage" content="images/bentley.png">
-    <meta name="msapplication-TileColor" content="#3372DF">
-
-    <link rel="shortcut icon" href="images/bentley.png">
-
-    <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
-    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.purple-pink.min.css">
-    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
-    <style>
-    .alignleft {
-      float:left;
+    <title>Róisín Donnelly</title>
+    <style type="text/css">
+    body{
+      margin:40px auto;
+      max-width:650px;
+      line-height:1.6;
+      font-size:18px;
+      font-family: 'Inconsolata', monospace;
+      color:#444;
+      padding:0 10px
     }
-    .alignright {
-      float:right;
+    a {
+      color:#444;
+      text-decoration:none;
     }
-    #view-source {
-      position: fixed;
-      display: block;
-      right: 0;
-      bottom: 0;
-      margin-right: 40px;
-      margin-bottom: 40px;
-      z-index: 900;
+    h1,h2,h3 {
+      line-height:1.2
+    }
+    i.material-icons {
+      vertical-align: middle;
     }
     </style>
-
     <script type="text/javascript">
       function scrambledemail() {
         var a = "rdon";
         var b = "nelly";
-        var c = "@b";
-        var d = "entley.edu";
-        e_string = "<a href=\"ma" + "ilto:" + a + b + c + d + "\">" + a + b + c + d + "</a>";
+        var c = "@bent";
+        var d = "ley.edu";
+        e_string = "<a href=\"ma" + "ilto:" + a + b + c + d + "\"><i class=\"tiny material-icons\">mail</i>&ensp;" + a + b + c + d + "</a>";
         document.write(e_string);
       }
     </script>
   </head>
 
-  <body class="mdl-demo mdl-color-text--grey-700 mdl-base">
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-      <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row"></div>
-        <div class="mdl-layout__header-row">
-          <h3>Róisín Donnelly</h3>
-        </div>
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row"></div>
-        <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
-          <a href="#overview" class="mdl-layout__tab is-active">Overview</a>
-          <a href="#research" class="mdl-layout__tab">Research</a>
-        </div>
-      </header>
-
-      <main class="mdl-layout__content">
-        <div class="mdl-layout__tab-panel is-active" id="overview">
-          <section class="section--left mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
-            <div class="mdl-card__supporting-text mdl-color-text--grey-900">
-              I am a Business PhD student at Bentley University.<br><br>
-              <b>Email:</b>
-              <script = type="text/javascript">scrambledemail();</script>
-              <noscript>
-                Please enable Javascript or view email address in pdf of CV.
-              </noscript>
-              <br><br>
-              <b>Address:</b><br>
-              Adamien Academic Center<br>
-              Room 263<br>
-              175 Forest St<br>
-              Waltham<br>
-              MA 02452<br><br>
-            </div>
-          </section>
-
-          <section class="section--left mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
-            <div class="mdl-card__supporting-text mdl-color-text--grey-900">
-              A pdf version of my CV is available <a href="onepagecvDonnelly.pdf">here</a>.
-            </div>
-          </section>
-        </div>
-
-        <div class="mdl-layout__tab-panel" id="research">
-          <section class="section--left mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
-            <div class="mdl-card__supporting-text mdl-color-text--grey-900">
-              ...
-            </div>
-          </section>
-        </div>
-      </main>
-    </div>
+  <body>
+    <h1>Róisín Donnelly</h1>
+    <p>
+      <img src="images/photo.jpg" style="width:235px;height:283px;float:right;margin: 0px 100px 0px 0px;">
+      I am a Business PhD student at Bentley University.
+      <br><br>
+       <script = type="text/javascript">scrambledemail();</script>
+    </p>
+    <br>
+    <a href="donnelly-cv.pdf"><h3>CV</h3></a>
+    <a href="research/"><h3>Research</h3></a>
   </body>
 </html>
