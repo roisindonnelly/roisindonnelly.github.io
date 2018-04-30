@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.12)  12 NOV 2017 20:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.12)  20 APR 2018 09:59
 entering extended mode
 **./Donnelly_CV.tex
 (Donnelly_CV.tex
@@ -521,46 +521,46 @@ Package microtype Info: Character `013' is missing
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 117.
+ input line 111.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\libertine\ts1linuxlibertinet-tlf.fd"
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 117.
+(Font)              scaled to size 12.0pt on input line 111.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 172.
+(Font)              scaled to size 12.0pt on input line 166.
 
 [2]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 227.
+(Font)              scaled to size 8.0pt on input line 221.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--231
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
 [3
 
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 233.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 227.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 227.
  ) 
 Here is how much of TeX's memory you used:
- 10113 strings out of 493323
- 164655 string characters out of 3139038
+ 10115 strings out of 493323
+ 164705 string characters out of 3139038
  271957 words of memory out of 3000000
  13466 multiletter control sequences out of 15000+200000
- 29116 words of font info for 85 fonts, out of 3000000 for 9000
+ 29327 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,8n,92p,258b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_ks2ukx.enc}{C:/Pr
@@ -574,7 +574,7 @@ ine/LinLibertineT.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine
 /LinLibertineTB.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/L
 inLibertineTBI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/Li
 nLibertineTI.pfb>
-Output written on Donnelly_CV.pdf (3 pages, 311359 bytes).
+Output written on Donnelly_CV.pdf (3 pages, 309470 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
