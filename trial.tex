@@ -1,0 +1,44 @@
+\documentclass[12pt]{article}
+\usepackage{tikz}
+\usetikzlibrary{celtic}
+
+\parindent=0pt
+
+\begin{document}
+
+\definecolor{amber}{rgb}{1.0,0.49,0.0}
+
+\begin{center}
+\begin{tikzpicture}[
+  scale=.52,
+  celtic path/.style={
+    draw,
+    double=amber,
+    blue,
+    double distance=5pt,
+    line width=2pt
+  },
+  celtic bar/.style={
+    ultra thick,
+    black,
+    draw,
+    rounded corners=5pt
+  },
+]
+\CelticDrawPath{
+  size={20,12},
+  crossings={
+    7:20,6,-;
+    6,7:12,|;
+  },
+  ignore  crossings={
+    7:19,9;    
+    8:19,11;
+    8:19,7;
+  },
+  max steps=90
+}
+\end{tikzpicture}
+\end{center}
+
+\end{document}

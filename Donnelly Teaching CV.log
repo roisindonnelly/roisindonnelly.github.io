@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.21)  28 JUL 2019 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.21)  21 JAN 2019 10:02
 entering extended mode
-**./Donnelly_CV.tex
-(Donnelly_CV.tex
+**"./Donnelly Teaching CV.tex"
+("Donnelly Teaching CV.tex"
 LaTeX2e <2018-12-01>
 (res.cls
 Document Style `res' <26 Sep 89>.
@@ -499,7 +499,7 @@ Package caption Info: hyperref package is loaded.
 LaTeX Warning: Unused global option(s):
     [12pt].
 
-No file Donnelly_CV.aux.
+No file "Donnelly Teaching CV".aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
@@ -632,65 +632,60 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/sc' will be
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/LinuxLibertineT-TLF/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 88.
  [1
 
 {C:/Users/donnelly/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 112.
+Underfull \hbox (badness 1043) in paragraph at lines 141--141
+[]|\OT1/LinuxLibertineT-TLF/b/n/12 Eval-u-a-tions for Business-Level Strat-egy 
+with Av-er-age Course Rat-ings
+ []
 
-("C:\Users\donnelly\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\ts1li
-nuxlibertinet-tlf.fd"
-File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
-LinuxLibertineT-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 112.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [2]
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 174.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 211.
+(Font)              scaled to size 8.0pt on input line 171.
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--215
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 217.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+[2
+
+
+
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 10123 strings out of 492946
- 167300 string characters out of 3124934
- 276000 words of memory out of 3000000
- 13837 multiletter control sequences out of 15000+200000
- 29327 words of font info for 86 fonts, out of 3000000 for 9000
+ 10073 strings out of 492946
+ 165842 string characters out of 3124934
+ 275011 words of memory out of 3000000
+ 13815 multiletter control sequences out of 15000+200000
+ 26128 words of font info for 68 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 53i,8n,92p,242b,387s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,8n,92p,253b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertin
 e/lbtn_ks2ukx.enc}{C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/fonts/en
-c/dvips/libertine/lbtn_naooyc.enc}{C:/Users/donnelly/AppData/Local/Programs/MiK
-TeX 2.9/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc}{C:/Users/donnelly/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_tk3eej.enc}{C:/Users/don
-nelly/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_kijugd.e
+c/dvips/libertine/lbtn_lyu3x3.enc}{C:/Users/donnelly/AppData/Local/Programs/MiK
+TeX 2.9/fonts/enc/dvips/libertine/lbtn_tk3eej.enc}{C:/Users/donnelly/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_kijugd.enc}{C:/Users/don
+nelly/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_n3gv2c.e
 nc}{C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/liberti
-ne/lbtn_n3gv2c.enc}{C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/fonts/e
-nc/dvips/libertine/lbtn_oexx6f.enc}<C:/Users/donnelly/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/donnelly/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><
-C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertin
-e/LinLibertineTBI.pfb><C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/libertine/LinLibertineTI.pfb>
-Output written on Donnelly_CV.pdf (3 pages, 306821 bytes).
+ne/lbtn_oexx6f.enc}<C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/libertine/LinLibertineT.pfb><C:/Users/donnelly/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/donnell
+y/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB
+I.pfb><C:/Users/donnelly/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/l
+ibertine/LinLibertineTI.pfb>
+Output written on "Donnelly Teaching CV.pdf" (2 pages, 305439 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
- 19457 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
+ 18945 words of extra memory for PDF output out of 20736 (max. 10000000)
 
